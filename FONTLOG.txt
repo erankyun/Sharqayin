@@ -1,0 +1,13 @@
+Sharqayin — FONTLOG
+===================
+
+2026-10-25 — Version 1.000
+-------------------------
+- Initial release.
+- Variable weight axis (wght 400–900).
+- Named instances: Regular 400, Medium 500, Semi Bold 600, Bold 700,
+  Extra Bold 800, Black 900.
+- Static styles: Regular, Medium, Semi Bold, Bold, Extra Bold, Black.
+- Character set: 94 designed symbols — Armenian capitals and lowercase,
+  digits 0–9, punctuation and space.
+- License: SIL Open Font License 1.1.
